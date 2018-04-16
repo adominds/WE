@@ -1,0 +1,5 @@
+dataset 
+- text8 : http://mattmahoney.net/dc/textdata.html
+- aclImdb : https://github.com/yods/storm-ml-play/tree/master/vwtraining/aclImdb
+- emails : https://www.kaggle.com/wcukierski/enron-email-dataset
+- GoogleNews-vectors-negative300
